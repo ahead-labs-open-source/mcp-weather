@@ -1,6 +1,6 @@
 # mcp-weather
 
-Sample project for retrieving and managing weather data.
+Sample project for retrieving and managing weather data. This code is from the official MCP documentation at https://modelcontextprotocol.io/quickstart/server.
 
 ## Project Structure
 
